@@ -6,8 +6,9 @@ Analyze a suspicious email to identify phishing indicators using email header in
 
 ## 📥 Files Included
 
-* `phishing email.txt`: Simulated phishing email sample
+* `email.txt`: Simulated phishing email sample
 * `README.md`: Summary of findings and tools used
+* An Word DOC about the procedure
 
 ## 🔍 Key Findings
 
