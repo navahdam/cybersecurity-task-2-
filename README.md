@@ -21,7 +21,6 @@ Analyze a suspicious email to identify phishing indicators using email header in
 ## 🛠️ Tools Used
 
 * EML Analyzer
-* MxTool header Analyzer
 * Manual inspection
 
 ## 📚 Outcome
