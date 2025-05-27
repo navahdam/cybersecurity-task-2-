@@ -17,7 +17,3 @@ Apple Support Team
 
 ---
 
-Header Info (simulated):
-Return-Path: <attacker@malicious-domain.ru>
-Received: from smtp.badserver.ru (smtp.badserver.ru [185.200.80.12])
-Authentication-Results: spf=fail; dkim=fail; dmarc=fail
