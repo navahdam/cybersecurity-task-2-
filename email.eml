@@ -1,0 +1,23 @@
+From: "Apple Support" <appleid@secure-apple.com>
+To: victim@example.com
+Subject: Urgent: Your Apple ID has been locked!
+
+Dear Customer,
+
+We noticed suspicious activity in your Apple account. As a security precaution, your Apple ID has been locked.
+
+To restore access, please verify your identity by clicking the link below:
+
+https://appleid-verify.com/login
+
+Failure to verify your account within 24 hours will result in permanent suspension.
+
+Thank you,
+Apple Support Team
+
+---
+
+Header Info (simulated):
+Return-Path: <attacker@malicious-domain.ru>
+Received: from smtp.badserver.ru (smtp.badserver.ru [185.200.80.12])
+Authentication-Results: spf=fail; dkim=fail; dmarc=fail
